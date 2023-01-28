@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projeto_car_comentado"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dnc-coffee"
+	}
+}
